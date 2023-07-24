@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+⚡ Network Engineer at Capgemini
+🔭 I’m currently working on JS,NODE,REACT,SQL
+
+
