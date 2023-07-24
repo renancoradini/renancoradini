@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-⚡ Network Engineer at Capgemini
+⚡ Network Engineer at Capgemini <p>
 🔭 I’m currently working on JS,NODE,REACT,SQL
 
 
