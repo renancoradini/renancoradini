@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 - ⚡ Network Engineer at Capgemini <p>
-- 🔭 I’m currently working on NODE, JS/TS, REACT, SQL
+- 🔭 I’m currently working on AWS, Terraform, NODE, JS/TS, SQL
 
 
