@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 - ⚡ Network Cloud Engineer at EZ.NET <p>
-- 🔭 AWS / Terraform / CI-CD / Python / NODE / SQL
+- 🔭 AWS-CSAA / Terraform / Kubernetes / CI-CD / Python / Node / SQL
 
 
