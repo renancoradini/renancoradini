@@ -1,4 +1,4 @@
-<strong> Hi there 👋
+<strong> Hi there 👋 </strong>
 <!--
 
 **renancoradini/renancoradini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
