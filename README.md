@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- ⚡ Network Engineer at Capgemini <p>
-- 🔭 I’m currently working on AWS, Terraform, NODE, JS/TS, SQL
+- ⚡ Network Cloud Engineer at EZ.NET <p>
+- 🔭 AWS / Terraform / CI-CD / Python / NODE / SQL
 
 
