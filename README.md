@@ -1,4 +1,6 @@
-<strong> Hi there 👋 </strong>
+Hi there 👋, I'm @renancoradini:
+- ⚡ Network Cloud Engineer at EZ.NET <p>
+- 🔭 AWS-CSAA / Terraform / Kubernetes / CI-CD / Python / Node / SQL
 <!--
 
 **renancoradini/renancoradini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +17,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- ⚡ Network Cloud Engineer at EZ.NET <p>
-- 🔭 AWS-CSAA / Terraform / Kubernetes / CI-CD / Python / Node / SQL
+
 
 
