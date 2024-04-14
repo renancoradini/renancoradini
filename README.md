@@ -1,5 +1,5 @@
 Hi there 👋, I'm @renancoradini:
-- ⚡ Network Cloud Engineer & DevOps at Ez.Net <p>
+- ⚡ Network Cloud Engineer & DevOps<p>
 - 🔭 AWS-SAA / Terraform / Kubernetes / CI-CD / Python / Node / SQL
 <!--
 
