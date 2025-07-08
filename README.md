@@ -1,6 +1,6 @@
 Hi there 👋, I'm @renancoradini:
-- ⚡ Network Cloud Engineer & DevOps<p>
-- 🔭 AWS-SAA / Terraform / Kubernetes / CI-CD / Python / Node / SQL
+- ⚡ DevOps & Network Cloud Engineer <p>
+- 🔭 AWS-SAA / Cisco CCNP / Terraform Associate
 <!--
 
 **renancoradini/renancoradini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
